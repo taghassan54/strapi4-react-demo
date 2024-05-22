@@ -32,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/sun_tajeldeen/Documents/GitHub/strapi-react/src/runtime",
+    "last_opened_file_path": "/Users/sun_tajeldeen/Documents/GitHub/strapi-react",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +46,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/runtime" />
       <recent name="$PROJECT_DIR$/src/runtime/composables-v3" />
     </key>
@@ -67,7 +68,7 @@
       <updated>1716201776950</updated>
       <workItem from="1716201777987" duration="940000" />
       <workItem from="1716265187591" duration="5855000" />
-      <workItem from="1716367175567" duration="1101000" />
+      <workItem from="1716367175567" duration="3115000" />
     </task>
     <servers />
   </component>
